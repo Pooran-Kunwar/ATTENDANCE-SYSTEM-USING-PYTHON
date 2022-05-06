@@ -42,3 +42,6 @@ Press Q(or q) for quit this window.After quitting it attendance of person will b
 name, id, date and time and it is also available in window.
 
 # thanks you 👍
+
+![Homescreen](https://user-images.githubusercontent.com/94557457/167061209-7d9fa3d2-2946-48c6-9a44-a0d6bf67c0ca.png)
+

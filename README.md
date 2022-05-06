@@ -41,7 +41,34 @@ Id and Name of person is shown on Image.
 Press Q(or q) for quit this window.After quitting it attendance of person will be stored in Attendance folder as csv file with 
 name, id, date and time and it is also available in window.
 
-# thanks you 👍
+# screen-shots
+
+ 1. Homescreen :
 
 ![Homescreen](https://user-images.githubusercontent.com/94557457/167061209-7d9fa3d2-2946-48c6-9a44-a0d6bf67c0ca.png)
+
+2. Enter Rollno and Name :
+
+![add ID and Name](https://user-images.githubusercontent.com/94557457/167061415-df2848ba-7c74-4f96-8603-3424f928fe19.png)
+
+3. Take Images :
+
+![take images](https://user-images.githubusercontent.com/94557457/167061473-912d838e-e3e6-4a4c-bd9f-3363e038a3e0.png)
+
+4. Save Profile :
+
+![save profile](https://user-images.githubusercontent.com/94557457/167061545-0de54880-d2aa-41e8-80d2-8dc14133f05e.png)
+
+5. Take Attendance :
+
+![take attendance](https://user-images.githubusercontent.com/94557457/167061581-e10f50c2-6977-4507-8854-4d10b2ea53f9.png)
+
+6. Attendance Lists :
+
+![attendance list](https://user-images.githubusercontent.com/94557457/167061635-d0f26a0b-3dce-4a5e-8b67-be77a2c0f61f.png)
+
+
+
+
+
 
